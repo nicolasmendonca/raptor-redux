@@ -11,6 +11,7 @@ module.exports = {
   plugins: [
     `gatsby-theme-blog`,
     `gatsby-theme-waves`,
+    `gatsby-remark-images`,
     `gatsby-plugin-offline`
   ]
 };
