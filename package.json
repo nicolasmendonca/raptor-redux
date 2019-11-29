@@ -14,5 +14,8 @@
     "gatsby-theme-waves": "^0.1.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "gatsby-plugin-offline": "^3.0.25"
   }
 }

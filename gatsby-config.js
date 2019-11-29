@@ -10,6 +10,7 @@ module.exports = {
   },
   plugins: [
     `gatsby-theme-blog`,
-    `gatsby-theme-waves`
+    `gatsby-theme-waves`,
+    `gatsby-plugin-offline`
   ]
 };
